@@ -1,0 +1,27 @@
+{
+    "theme_color": "#b9671a",
+    "background_color": "#f69435",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "name": "My Shop",
+    "short_name": "My shop",
+    "description": "My shop",
+    "icons": [
+        {
+            "src": "/icon-64x64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
